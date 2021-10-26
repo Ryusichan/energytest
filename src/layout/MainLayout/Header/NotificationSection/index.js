@@ -180,7 +180,7 @@ const NotificationSection = () => {
                                 <MainCard border={false} elevation={16} content={false} boxShadow shadow={theme.shadows[16]}>
                                     <CardContent className={classes.cardContent}>
                                         <Grid container direction="column" spacing={2}>
-                                            <Grid item xs={12}>
+                                            <Grid item xs={10}>
                                                 <div className={classes.bodyPPacing}>
                                                     <Grid container alignItems="center" justifyContent="space-between">
                                                         <Grid item>
